@@ -14,3 +14,5 @@ Excel, Power BI
 ## 📈 Insights
 - Peak patient time identified
 - Revenue trends analyzed
+## 📸 Dashboard Preview
+![Dashboard](Hospital Dashboard Final.jpg)
