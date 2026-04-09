@@ -74,7 +74,7 @@ This project answers the following questions:
 (Add your dashboard screenshot here)
 
 Example:
-![Sales Dashboard](sales-dashboard.png)
+![Sales Dashboard](Hospital-Dashboard/Sales-Analysis/sales.PNG)
 
 ---
 
