@@ -7,8 +7,10 @@ My Data Analyst Projects Portfolio
 ## 🧑‍💻 About Me
 I am a passionate Data Analyst fresher with a strong foundation in data analysis, visualization, and problem-solving.
 
-🎓 B.Tech in Electronics & Telecommunication (CGPA: 8.11)  
+🎓 B.Tech in Electronics & Telecommunication (CGPA: 8.11) 
+ 
 📊 Skilled in Excel, SQL, Power BI, Python & Tableau  
+
 💡 Interested in transforming raw data into meaningful business insights  
 ---
 ## 🛠️ Skills
@@ -47,8 +49,8 @@ I am a passionate Data Analyst fresher with a strong foundation in data analysis
 
 ## 📬 Contact Me
 
-📧 Email: your-email@gmail.com  
-🔗 LinkedIn: your-linkedin-link  
+📧 Email: your-vishaldubey7072@gmail.com  
+🔗 LinkedIn: your-https://www.linkedin.com/in/vishaldubey2002/ 
 
 ---
 
