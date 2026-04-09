@@ -49,8 +49,8 @@ I am a passionate Data Analyst fresher with a strong foundation in data analysis
 
 ## 📬 Contact Me
 
-📧 Email: your-vishaldubey7072@gmail.com  
-🔗 LinkedIn: your-https://www.linkedin.com/in/vishaldubey2002/ 
+📧 Email:vishaldubey7072@gmail.com  
+🔗 LinkedIn:https://www.linkedin.com/in/vishaldubey2002/ 
 
 ---
 
