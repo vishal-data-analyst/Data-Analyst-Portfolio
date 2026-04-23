@@ -14,31 +14,17 @@ I am a passionate Data Analyst fresher with a strong foundation in data analysis
 💡 Interested in transforming raw data into meaningful business insights  
 ---
 ## 🛠️ Skills
-**📊 Data Analysis:** Data Cleaning, Data Visualization, Data Interpretation  
-**📈 Tools:** Excel, Power BI, Tableau  
-**🗄️ Database:** SQL (MySQL)  
-**🐍 Programming:** Python (Pandas, NumPy, Matplotlib)  
+**📊 Data Analysis: Data Cleaning, Data Visualization, Data Interpretation  
+**📈 Tools: Excel, Power BI, Tableau  
+**🗄️ Database: SQL (MySQL)  
+**🐍 Programming: Python (Pandas, NumPy, Matplotlib)  
 ---
 ## 📂 Projects
 
 ### 🏥 Hospital Data Dashboard
 📌 Analyzed hospital data to improve operational efficiency  
 🔗 [View Project](./Hospital-Dashboard)
-
----
-### 📊 Sales Data Analysis *(Coming Soon)*
-📌 Sales trends, profit analysis, and business insights  
-
----
-
-### 🛒 E-commerce Analysis *(Coming Soon)*
-📌 Customer behavior and product performance analysis  
-
----
-
-### 🚚 Supply Chain Analysis *(Coming Soon)*
-📌 Inventory and delivery performance optimization  
-
+  
 ---
 
 ## 📸 Featured Project Preview
