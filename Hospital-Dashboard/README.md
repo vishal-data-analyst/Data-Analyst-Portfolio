@@ -16,4 +16,5 @@ Excel, Power BI
 - Revenue trends analyzed
 
 ## 📸 Dashboard Preview
-![Dashboard](hospital-dashboard.jpg)
+![Dashboard]![Uploading Dashboard-hospital.JPG…]()
+
