@@ -43,7 +43,8 @@ I am a passionate Data Analyst fresher with a strong foundation in data analysis
 
 ## 📸 Featured Project Preview
 
-![Dashboard]<img width="1643" height="574" alt="Hospital-Dashboard" src="https://github.com/user-attachments/assets/3c09f2b3-6091-4582-b131-5e8724348b2c" />
+![Dashboard]<img width="1645" height="572" alt="Dashboard-hospital" src="https://github.com/user-attachments/assets/dd653a27-5ddd-4ab5-b31b-97143eb8d284" />
+
 
 
 ---
